@@ -1,0 +1,23 @@
+
+
+.name{
+    background-color: rgba(27, 67, 103, 0.237);
+    color: rgb(10, 1, 19);
+    background-size: cover;
+    font-family: cursive;
+    font-size: 40pt;
+    border: 6px groove black;
+    font-style: italic;
+    border-radius: 20px;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top: 18%;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+
+
+}
